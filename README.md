@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @romanhukpintofino
-- 👀 I’m interested in ... games
-- 🌱 I’m currently learning ... games 
-- 💞️ I’m looking to collaborate on ... games
-- 📫 How to reach me ... gamer 
-- 😄 Pronouns: ...games
-- ⚡ Fun fact: ...games
+Óla!Meu nome é JOSE ARTHUR MOREIRA ROMANHUK.
+sou desenvolvedor apaixonado por tecnologia e inovação.
+Estou sempre em busca de nvos desafios e aprendizados
+ no mundo da programação
+ Atualmente to aprendendo sobre linguagem G.
 
-<!---
-romanhukpintofino/romanhukpintofino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+E vai caga! 
